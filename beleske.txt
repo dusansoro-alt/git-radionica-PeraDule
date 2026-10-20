@@ -1,4 +1,4 @@
-status:pocetak
+status:za pregled
 
 "Ucim Git."
 "Dolazi Zima"
