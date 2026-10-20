@@ -1,4 +1,4 @@
-status:novi status
+status:drugi status
 
 "Ucim Git."
 "Dolazi Zima"
